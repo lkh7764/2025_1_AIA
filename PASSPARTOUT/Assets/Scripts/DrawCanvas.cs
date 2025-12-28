@@ -18,6 +18,7 @@ public class DrawCanvas : MonoBehaviour, IPointerDownHandler, IDragHandler
     private int texWidth;
     private int texHeight;
 
+
     // brush setting
     private Color brushColor;
     private int brushSize;

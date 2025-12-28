@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "features": {
+            "speech": [],
+            "personality": ["wiry", "generous"]
+        },
+        "favorites": {
+            "mood": ["awe", "amusement", "contentment", "excitement", "digust", "fear", "sadness", "someting else"],
+            "color": ["white", "black", "red", "orange", "yellow", "green", "blue", "purple"],
+            "colorful": 0.0,
+            "saturation": 0.0,
+            "brightness": 0.0,
+            "detail": 0.0
+        }
+    },
+    "default": {
+        "features": {
+            "speech": [],
+            "personality": [],
+            "money": 1.0
+        },
+        "favorites" : {
+            "mood"          : [],
+            "color"         : [],
+            "colorful": 0.0,
+            "saturation": 0.0,
+            "brightness": 0.0,
+            "detail": 0.0
+        },
+        "hates": {
+            "mood": [],
+            "color": [],
+            "colorful": 0.0,
+            "saturation": 0.0,
+            "brightness": 0.0,
+            "detail": 0.0 
+        },
+        "weights": {
+            "mood": [],
+            "color": [],
+            "colorful": 0.0,
+            "saturation": 0.0,
+            "brightness": 0.0,
+            "detail": 0.0
+        }
+    },
+
+    "buyer_000": {
+        "features": {
+            "speech": [],
+            "personality": [],
+            "money": []
+        },
+        "favorites": {
+            "mood": [],
+            "color": [],
+            "detail": [],
+            "line_style": []
+        },
+        "hates": {
+            "mood": [],
+            "color": [],
+            "detail": [],
+            "line_style": []
+        },
+        "weights": {
+            "mood": 1.0,
+            "color": 1.0,
+            "detail": 1.0,
+            "line_style": 1.0
+        }
+    }
+}

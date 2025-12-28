@@ -7,6 +7,7 @@ response = requests.get("http://www.google.com")
 print(response.status_code)
 """
 
+
 def getRequestFromDeepSeek(theme):
     prompt = f"""
     
